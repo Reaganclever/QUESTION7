@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+
+<employee><employeeNumber>EMP001</employeeNumber><employeeName>KASULE JOHN REAGAN</employeeName><salary>1000000</salary></employee>
+
+<employee><employeeNumber>EMP002</employeeNumber><employeeName>JOE RODNEY</employeeName><salary>6700000</salary></employee>
+<employee><employeeNumber>EMP003</employeeNumber><employeeName>JANE LYNET</employeeName><salary>3400000</salary></employee>
+<employee><employeeNumber>EMP004</employeeNumber><employeeName>PAUL</employeeName><salary>50000</salary></employee>
+
+<employee><employeeNumber>J001</employeeNumber><employeeName>JOAN</employeeName><salary>4000000</salary></employee>
+
+</employees>
